@@ -20,7 +20,7 @@
 
 ### The Healthcare Crisis in Rural India
 
-Rural India faces a severe, multi-dimensional healthcare accessibility crisis affecting over **65% of the population** (**~900 million people**). The current healthcare infrastructure is characterized by systemic gaps that result in preventable deaths, delayed diagnoses, and economic devastation for families.
+Rural India faces a severe, multidimensional healthcare accessibility crisis affecting over **65% of the population** (**~900 million people**). The current healthcare infrastructure is characterized by systemic gaps that result in preventable deaths, delayed diagnoses, and economic devastation for families.
 
 ![Healthcare Crisis](diagrams/)
 
