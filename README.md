@@ -1,6 +1,6 @@
 # SwasthyaAI: Smart Voice + Agentic Health Assistant
 
-![SwasthyaAI Banner]()
+![SwasthyaAI Banner](diagrams/)
 
 ## 📋 Table of Contents
 
@@ -22,7 +22,7 @@
 
 Rural India faces a severe, multi-dimensional healthcare accessibility crisis affecting over **65% of the population** (**~900 million people**). The current healthcare infrastructure is characterized by systemic gaps that result in preventable deaths, delayed diagnoses, and economic devastation for families.
 
-![Healthcare Crisis](media/image9.png)
+![Healthcare Crisis](diagrams/)
 
 ### Critical Challenges
 
@@ -122,7 +122,7 @@ A **single toll-free number** accessible **across India** that connects callers 
 
 ### AI Processing Pipeline
 
-![AI Pipeline](media/image10.png)
+![AI Pipeline](diagrams/D3.png)
 
 ---
 
@@ -130,11 +130,11 @@ A **single toll-free number** accessible **across India** that connects callers 
 
 ### High-Level Architecture Overview
 
-![High-Level Architecture](media/image7.png)
+![High-Level Architecture](diagrams/D1.png)
 
 ### Component Architecture Details
 
-![Component Architecture](media/image8.png)
+![Component Architecture](diagrams/D2.png)
 
 ---
 
@@ -197,11 +197,11 @@ SwasthyaAI employs a **specialized multi-agent architecture** where each agent i
 
 ### Complete Call Flow Diagram
 
-![Call Flow](media/image3.png)
+![Call Flow](diagrams/D5.png)
 
 ### State Machine Design
 
-![State Machine](media/image12.png)
+![State Machine](diagrams/D6.png)
 
 ---
 
